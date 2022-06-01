@@ -11,3 +11,4 @@ function clearActive() {
         slide.classList.remove('active')
     });
 }
+console.log('Hello');
